@@ -95,6 +95,3 @@ El objetivo es seguir mejorando la aplicación. Las próximas grandes funcionali
 ## 📄 Licencia
 
 Este proyecto está distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-*(Nota: Deberás crear un archivo LICENSE en tu repositorio. La licencia MIT es una opción popular y permisiva).*
-
